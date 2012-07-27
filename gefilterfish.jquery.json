@@ -1,0 +1,27 @@
+{
+  "name": "gefilterfish",
+  "title": "GefilterFish",
+  "description": "A jQuery plugin for filtering tables and lists.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kentfrazier/jquery-gefilterfish",
+  "author": {
+    "name": "Kent Frazier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kentfrazier/jquery-gefilterfish.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kentfrazier/jquery-gefilterfish/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kentfrazier/jquery-gefilterfish/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">= 1.6"
+  },
+  "keywords": []
+}
